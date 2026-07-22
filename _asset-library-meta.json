@@ -1,0 +1,14 @@
+{
+  "api_versions": {
+    "v1": {
+      "url": "_v1/asset-index.json",
+      "hash": "SHA256:6cb62dc4bf791666be95779d03f9f2ec0a445af463f617194312dd891e90c318"
+    }
+  },
+  "name": "HAOAH Custom Assets",
+  "contact": {
+    "name": "HAOAH",
+    "url": "https://github.com/HAOAH0091",
+    "email": "toukou0091@gmail.com"
+  }
+}
