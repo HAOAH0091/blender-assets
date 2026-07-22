@@ -1,12 +1,12 @@
 {
   "schema_version": "1.0.0",
-  "asset_size_bytes": 149805306,
-  "asset_count": 34,
-  "file_count": 18,
+  "asset_size_bytes": 146258855,
+  "asset_count": 30,
+  "file_count": 17,
   "pages": [
     {
       "url": "_v1/assets-00000.json",
-      "hash": "SHA256:069d8e1248a4533ff256f2cede13a840258f7c5b51f9b89d89163e064f022d90"
+      "hash": "SHA256:333f0e8e1ac174c3b1e05fdff1f556c39872c04e84bbf4aa38cdc39f44075495"
     }
   ],
   "catalogs": [
@@ -16,6 +16,104 @@
         "7e67d54f-fa58-4d08-936b-acf537fe91f2"
       ],
       "simple_name": "Trails_FX"
+    },
+    {
+      "path": "depth_fade",
+      "uuids": [
+        "d3dbe59d-d96b-47aa-8bc6-1a44d5c20064"
+      ],
+      "simple_name": "depth_fade"
+    },
+    {
+      "path": "\u6d41\u4e91\u751f\u6210\u5668",
+      "uuids": [
+        "535555d5-4b7d-47c3-aa8e-ee355c3893f4"
+      ],
+      "simple_name": "\u6d41\u4e91\u751f\u6210\u5668"
+    },
+    {
+      "path": "\u70b9\u62d6\u5c3e_FX",
+      "uuids": [
+        "c2cd4912-09ed-4643-821e-dddbfbe8c3c5"
+      ],
+      "simple_name": "\u70b9\u62d6\u5c3e_FX"
+    },
+    {
+      "path": "\u7b80\u6613\u6563\u5e03",
+      "uuids": [
+        "57bdee2d-341d-4f0f-b560-9d903f5ace35"
+      ],
+      "simple_name": "\u7b80\u6613\u6563\u5e03"
+    },
+    {
+      "path": "\u7b80\u6613\u7c92\u5b50",
+      "uuids": [
+        "9c1bae5c-b464-4b87-a8db-0b508e9b0447"
+      ],
+      "simple_name": "\u7b80\u6613\u7c92\u5b50"
+    },
+    {
+      "path": "\u7c92\u5b50\u7cfb\u7edf",
+      "uuids": [
+        "e15821b5-be34-4433-89cb-e92acef945c2"
+      ],
+      "simple_name": "\u7c92\u5b50\u7cfb\u7edf"
+    },
+    {
+      "path": "\u7c92\u5b50\u7cfb\u7edf/\u4e3b\u8981",
+      "uuids": [
+        "22142489-4b81-4722-94c8-1471746d2460"
+      ],
+      "simple_name": "\u7c92\u5b50\u7cfb\u7edf-\u4e3b\u8981"
+    },
+    {
+      "path": "\u7c92\u5b50\u7cfb\u7edf/\u5176\u4ed6",
+      "uuids": [
+        "a74b51d1-8638-439a-b457-c305dee5f9c7"
+      ],
+      "simple_name": "\u7c92\u5b50\u7cfb\u7edf-\u5176\u4ed6"
+    },
+    {
+      "path": "\u7c92\u5b50\u7cfb\u7edf/\u529b\u573a",
+      "uuids": [
+        "0f87750b-60af-43ff-9bbb-25df6ac5b77d"
+      ],
+      "simple_name": "\u7c92\u5b50\u7cfb\u7edf-\u529b\u573a"
+    },
+    {
+      "path": "\u7f51\u683c\u62d6\u5c3e_FX",
+      "uuids": [
+        "4e4e29f2-bf67-4c24-b7e7-59c2feab5255"
+      ],
+      "simple_name": "\u7f51\u683c\u62d6\u5c3e_FX"
+    },
+    {
+      "path": "\u81ea\u5b9a\u4e49\u5f62\u6001\u4f53\u79ef\u4e91",
+      "uuids": [
+        "b263dac6-6e15-432d-94a9-0ef991b45104"
+      ],
+      "simple_name": "\u81ea\u5b9a\u4e49\u5f62\u6001\u4f53\u79ef\u4e91"
+    },
+    {
+      "path": "\u89c6\u5dee\u6620\u5c04",
+      "uuids": [
+        "0160b398-d5d0-4e5f-9195-96b8b50b01ff"
+      ],
+      "simple_name": "\u89c6\u5dee\u6620\u5c04"
+    },
+    {
+      "path": "\u9002\u914d\u66f2\u7ebf\u53d8\u5f62",
+      "uuids": [
+        "7424e200-b7cd-4fb1-aa97-ba6118e1c3ec"
+      ],
+      "simple_name": "\u9002\u914d\u66f2\u7ebf\u53d8\u5f62"
+    },
+    {
+      "path": "\u98ce\u683c\u5316\u6811\u53f6",
+      "uuids": [
+        "0c05a480-f16d-46ce-adfe-3ce54e13a953"
+      ],
+      "simple_name": "\u98ce\u683c\u5316\u6811\u53f6"
     }
   ]
 }
