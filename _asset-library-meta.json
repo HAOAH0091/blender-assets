@@ -1,14 +1,14 @@
-{
-  "contact": {
-    "email": "toukou0091@gmail.com",
-    "url": "https://github.com/HAOAH0091",
-    "name": "HAOAH"
-  },
-  "name": "好柒实用工具资产库",
-  "api_versions": {
-    "v1": {
-      "hash": "SHA256:1999a812c3d70ada0e854570f16d13b3666a3613bc0f5c04c94def5581dbe4a2",
-      "url": "_v1/asset-index.json"
-    }
-  }
+﻿{
+    "contact":  {
+                    "email":  "toukou0091@gmail.com",
+                    "url":  "https://github.com/HAOAH0091",
+                    "name":  "HAOAH"
+                },
+    "name":  "好柒实用工具资产库",
+    "api_versions":  {
+                         "v1":  {
+                                    "hash":  "SHA256:1999a812c3d70ada0e854570f16d13b3666a3613bc0f5c04c94def5581dbe4a2",
+                                    "url":  "_v1/asset-index.json"
+                                }
+                     }
 }
