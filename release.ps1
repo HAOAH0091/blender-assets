@@ -5,9 +5,17 @@ $ErrorActionPreference = "Stop"
 
 $blenderExe = "G:\steam\steamapps\common\Blender\blender.exe"
 $repoRoot = $PSScriptRoot
+$srcCatsFile = "F:\desktop\BaiduSyncdisk\blender_asset\customize\blender_assets.cats.txt"
 
 Write-Host ""
 Write-Host "=== HAOAH Asset Library Release ===" -ForegroundColor Cyan
+
+# ---- sync cats.txt from source (source is authoritative for catalog definitions) ----
+$repoCatsFile = Join-Path $repoRoot "blender_assets.cats.txt"
+if (Test-Path $srcCatsFile) {
+    Copy-Item $srcCatsFile $repoCatsFile -Force
+    Write-Host "cats.txt synced from source"
+}
 
 # ---- regenerate listing ----
 Write-Host ""
@@ -17,6 +25,7 @@ if (-not (Test-Path $blenderExe)) {
     Read-Host "Press Enter to close"
     exit 1
 }
+
 $prevErrorAction = $ErrorActionPreference
 $ErrorActionPreference = "Continue"
 & $blenderExe -b -c asset_listing generate $repoRoot 2>&1 | Select-String "Writing|Command took|\.blend files found"
