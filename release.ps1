@@ -36,7 +36,7 @@ if (Test-Path $indexPath) {
 
     $meta = @{
         api_versions = @{ v1 = @{ url = "_v1/asset-index.json"; hash = $hashStr } }
-        name = "HAOAH Custom Assets"
+        name = "好柒实用工具资产库"
         contact = @{ name = "HAOAH"; url = "https://github.com/HAOAH0091"; email = "toukou0091@gmail.com" }
     }
     $meta | ConvertTo-Json -Depth 5 | Set-Content (Join-Path $repoRoot "_asset-library-meta.json") -Encoding UTF8
