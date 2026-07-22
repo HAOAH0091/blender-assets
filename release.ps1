@@ -1,4 +1,4 @@
-# HAOAH Blender Asset Library
+﻿# HAOAH Blender Asset Library
 # yong fa: .\release.ps1
 
 $ErrorActionPreference = "Stop"
@@ -14,6 +14,7 @@ Write-Host ""
 Write-Host "Generating asset listing..." -ForegroundColor Cyan
 if (-not (Test-Path $blenderExe)) {
     Write-Host "ERROR: Blender not found at $blenderExe" -ForegroundColor Red
+    Read-Host "Press Enter to close"
     exit 1
 }
 $prevErrorAction = $ErrorActionPreference
@@ -63,3 +64,5 @@ try {
 
 Write-Host ""
 Write-Host "=== DONE ===" -ForegroundColor Cyan
+
+Read-Host "Press Enter to close"
