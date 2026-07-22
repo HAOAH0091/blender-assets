@@ -1,9 +1,5 @@
 # HAOAH Blender Asset Library
-# yong fa: .\release.ps1 [-Push]
-
-param(
-    [switch]$Push
-)
+# yong fa: .\release.ps1
 
 $ErrorActionPreference = "Stop"
 
@@ -48,26 +44,21 @@ $index = Get-Content $indexPath -Raw | ConvertFrom-Json
 Write-Host "  assets: $($index.asset_count) | files: $($index.file_count)"
 
 # ---- git ----
-if ($Push) {
-    Write-Host ""
-    Write-Host "Pushing to GitHub..." -ForegroundColor Cyan
-    Push-Location $repoRoot
-    try {
-        git add -A
-        $gitStatus = git status -s
-        if ($gitStatus) {
-            git commit -m "update: $(Get-Date -Format 'yyyy-MM-dd HH:mm')"
-            git push
-            Write-Host "  pushed." -ForegroundColor Green
-        } else {
-            Write-Host "  no changes." -ForegroundColor DarkYellow
-        }
-    } finally {
-        Pop-Location
+Write-Host ""
+Write-Host "Pushing to GitHub..." -ForegroundColor Cyan
+Push-Location $repoRoot
+try {
+    git add -A
+    $gitStatus = git status -s
+    if ($gitStatus) {
+        git commit -m "update: $(Get-Date -Format 'yyyy-MM-dd HH:mm')"
+        git push
+        Write-Host "  pushed." -ForegroundColor Green
+    } else {
+        Write-Host "  no changes." -ForegroundColor DarkGray
     }
-} else {
-    Write-Host ""
-    Write-Host "Skip push (add -Push to auto-push)" -ForegroundColor DarkYellow
+} finally {
+    Pop-Location
 }
 
 Write-Host ""
