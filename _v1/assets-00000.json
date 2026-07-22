@@ -1,6 +1,6 @@
 {
-  "asset_count": 32,
-  "file_count": 17,
+  "asset_count": 34,
+  "file_count": 18,
   "assets": [
     {
       "name": "Example Trail",
@@ -846,6 +846,57 @@
           }
         ]
       }
+    },
+    {
+      "name": "\u98ce\u683c\u5316\u6811\u53f6",
+      "id_type": "MATERIAL",
+      "files": [
+        "\u98ce\u683c\u5316\u6811\u53f6.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "%E9%A3%8E%E6%A0%BC%E5%8C%96%E6%A0%91%E5%8F%B6_thumbnails/Material/.webp",
+        "hash": "SHA256:fe33a1c2850305039ea3fdd5c9d9ea417adf5ab5332bae2a3cd0a1b33147171a"
+      },
+      "meta": {
+        "catalog_id": "23436292-3252-45a3-9de4-c6f6c36b3c35"
+      }
+    },
+    {
+      "name": "\u98ce\u683c\u5316\u6811\u53f6",
+      "id_type": "NODETREE",
+      "files": [
+        "\u98ce\u683c\u5316\u6811\u53f6.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "%E9%A3%8E%E6%A0%BC%E5%8C%96%E6%A0%91%E5%8F%B6_thumbnails/Nodetree/.webp",
+        "hash": "SHA256:88eb32a0b7612f9887dde6f7b9a37873b7538725b968d008d652ff5723264547"
+      },
+      "meta": {
+        "catalog_id": "23436292-3252-45a3-9de4-c6f6c36b3c35",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          },
+          {
+            "name": "geometry_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 64
+          },
+          {
+            "name": "node_tool_idname",
+            "type": "IDP_STRING",
+            "value": "geometry._"
+          }
+        ]
+      }
     }
   ],
   "files": [
@@ -960,6 +1011,13 @@
       "hash": "SHA256:3dfe52d8f0fab766dddafe3b1764aada5e3505c6707d8e685d5e8fe32d1b2ab5",
       "blender_version": "5.0.117",
       "url": "%E7%AE%80%E5%8D%95%E6%95%A3%E5%B8%83_v2.blend"
+    },
+    {
+      "path": "\u98ce\u683c\u5316\u6811\u53f6.blend",
+      "size_in_bytes": 8723149,
+      "hash": "SHA256:53e3d8ce591fa9d44694706a8a3c3571a7072a6d08454f91ad3f41fcd11260e9",
+      "blender_version": "5.2.44",
+      "url": "%E9%A3%8E%E6%A0%BC%E5%8C%96%E6%A0%91%E5%8F%B6.blend"
     }
   ]
 }
