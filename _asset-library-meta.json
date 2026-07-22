@@ -7,7 +7,7 @@
     "name":  "HAOAH Custom Assets",
     "api_versions":  {
                          "v1":  {
-                                    "hash":  "SHA256:8847576c85314e3350e32596c906d5b948a076f5d756270d3c101d0af1d747fd",
+                                    "hash":  "SHA256:65f3cc7fba70e1b6840938f4fd74aba33be7c474734fcbb66188928467a64b8b",
                                     "url":  "_v1/asset-index.json"
                                 }
                      }
