@@ -1,5 +1,5 @@
-# HAOAH Blender Asset Library — 一键发布
-# 用法: .\release.ps1 [-Push]
+# HAOAH Blender Asset Library
+# yong fa: .\release.ps1 [-Push]
 
 param(
     [switch]$Push
@@ -9,31 +9,9 @@ $ErrorActionPreference = "Stop"
 
 $blenderExe = "G:\steam\steamapps\common\Blender\blender.exe"
 $repoRoot = $PSScriptRoot
-$sourceDir = "F:\desktop\BaiduSyncdisk\blender_asset\customize"
 
 Write-Host ""
 Write-Host "=== HAOAH Asset Library Release ===" -ForegroundColor Cyan
-
-# ---- sync source → repo ----
-Write-Host ""
-Write-Host "Syncing blend files from source..." -ForegroundColor Yellow
-$synced = 0
-Get-ChildItem $sourceDir -Filter "*.blend" | ForEach-Object {
-    $dest = Join-Path $repoRoot $_.Name
-    $copy = $false
-    if (-not (Test-Path $dest)) {
-        $copy = $true
-        Write-Host "  NEW: $($_.Name)"
-    } elseif ((Get-Item $_.FullName).LastWriteTime -gt (Get-Item $dest).LastWriteTime) {
-        $copy = $true
-        Write-Host "  UPD: $($_.Name)"
-    }
-    if ($copy) {
-        Copy-Item $_.FullName $dest -Force
-        $synced++
-    }
-}
-Write-Host "Synced: $synced file(s)"
 
 # ---- regenerate listing ----
 Write-Host ""
