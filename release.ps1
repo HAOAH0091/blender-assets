@@ -31,6 +31,11 @@ $ErrorActionPreference = "Continue"
 & $blenderExe -b -c asset_listing generate $repoRoot 2>&1 | Select-String "Writing|Command took|\.blend files found"
 $ErrorActionPreference = $prevErrorAction
 
+# restore cats.txt from source (generator drops catalogs without assigned assets)
+if (Test-Path $srcCatsFile) {
+    Copy-Item $srcCatsFile $repoCatsFile -Force
+}
+
 # ---- fix meta ----
 Write-Host ""
 Write-Host "Fixing metadata..." -ForegroundColor Yellow
