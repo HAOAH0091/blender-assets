@@ -632,7 +632,7 @@
       }
     },
     {
-      "name": "trail",
+      "name": "trail_mat",
       "id_type": "MATERIAL",
       "files": [
         "trailsFX_V5.0.blend"
@@ -641,11 +641,11 @@
         "min": "5.2"
       },
       "thumbnail": {
-        "url": "trailsFX_V5.0_thumbnails/Material/trail.webp",
+        "url": "trailsFX_V5.0_thumbnails/Material/trail_mat.webp",
         "hash": "SHA256:e655276ea2e9663c882f37ebd937cb6f68bc79e2da73684663d56b2a92135862"
       },
       "meta": {
-        "catalog_id": "d0dd0e73-229b-418c-84de-d14085b47f78"
+        "catalog_id": "666de071-e174-400b-a842-f3a0e79d3ed8"
       }
     },
     {
@@ -662,7 +662,7 @@
         "hash": "SHA256:e655276ea2e9663c882f37ebd937cb6f68bc79e2da73684663d56b2a92135862"
       },
       "meta": {
-        "catalog_id": "1b801c18-7595-42b6-9ffc-287c5187f3d4",
+        "catalog_id": "666de071-e174-400b-a842-f3a0e79d3ed8",
         "properties": [
           {
             "name": "type",
@@ -696,7 +696,7 @@
         "hash": "SHA256:e655276ea2e9663c882f37ebd937cb6f68bc79e2da73684663d56b2a92135862"
       },
       "meta": {
-        "catalog_id": "cac4f326-d5b3-4565-a24b-83cea7de42ac",
+        "catalog_id": "c035ac57-4abe-4a25-8124-ec69f7056835",
         "properties": [
           {
             "name": "dimensions",
@@ -987,8 +987,8 @@
     },
     {
       "path": "trailsFX_V5.0.blend",
-      "size_in_bytes": 66419489,
-      "hash": "SHA256:94962a250a7b680eb9c76f4754be83cf7481db5ffe7d3cb3b52d9e7cd5471710",
+      "size_in_bytes": 66420401,
+      "hash": "SHA256:68f4175350ba6f56d6c18537bf5b7cafac59a70c39abdc0e5d645bd85e8427cb",
       "blender_version": "5.2.44"
     },
     {

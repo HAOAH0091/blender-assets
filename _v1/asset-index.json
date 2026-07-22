@@ -1,13 +1,28 @@
 {
   "schema_version": "1.0.0",
-  "asset_size_bytes": 149804626,
+  "asset_size_bytes": 149805538,
   "asset_count": 34,
   "file_count": 18,
   "pages": [
     {
       "url": "_v1/assets-00000.json",
-      "hash": "SHA256:ac7f5a04f3172ff2b0e834f2122ff2389fc2937df016625afedb345b30be440f"
+      "hash": "SHA256:cfc05e5bc777f91481daed6ff69cc8b2deae5c7c0208fee5e7941db6de937363"
     }
   ],
-  "catalogs": []
+  "catalogs": [
+    {
+      "path": "Catalog",
+      "uuids": [
+        "666de071-e174-400b-a842-f3a0e79d3ed8"
+      ],
+      "simple_name": "Catalog"
+    },
+    {
+      "path": "Catalog.001",
+      "uuids": [
+        "c035ac57-4abe-4a25-8124-ec69f7056835"
+      ],
+      "simple_name": "Catalog.001"
+    }
+  ]
 }
