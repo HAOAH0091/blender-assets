@@ -1,39 +1,35 @@
 {
-  "asset_count": 30,
-  "file_count": 17,
+  "asset_count": 33,
+  "file_count": 15,
   "assets": [
     {
       "name": "Example Trail",
       "id_type": "MATERIAL",
       "files": [
-        "4.3 Trail Modifier V3.blend"
+        "外部节点/4.3 Trail Modifier V3.blend"
       ],
       "bl_versions": {
         "min": "5.2"
       },
       "thumbnail": {
-        "url": "4.3%20Trail%20Modifier%20V3_thumbnails/Material/example-trail.webp",
-        "hash": "SHA256:df9432e2b3a606734413f46dc3f368799cfeb2337f62dd439e8c753b6ab7df43"
+        "url": "%E5%A4%96%E9%83%A8%E8%8A%82%E7%82%B9/4.3%20Trail%20Modifier%20V3_thumbnails/Material/example-trail.webp",
+        "hash": "SHA256:ee487adbc7992260610e44066dfef83052b9a65b6b9034d5f70e9d83cd297c03"
       },
       "meta": {
-        "catalog_id": "4e4e29f2-bf67-4c24-b7e7-59c2feab5255"
+        "catalog_id": "b5a12567-391b-4caa-b3fc-e5d81673937b"
       }
     },
     {
       "name": "Trail Modifier V3",
       "id_type": "NODETREE",
       "files": [
-        "4.3 Trail Modifier V3.blend"
+        "外部节点/4.3 Trail Modifier V3.blend"
       ],
       "bl_versions": {
         "min": "5.2"
       },
-      "thumbnail": {
-        "url": "4.3%20Trail%20Modifier%20V3_thumbnails/Nodetree/trail-modifier-v3.webp",
-        "hash": "SHA256:0730d6f9de6d45a044a77482329c1cb896973f0b0c2329e6a637f4cdf5b98863"
-      },
       "meta": {
-        "catalog_id": "4e4e29f2-bf67-4c24-b7e7-59c2feab5255",
+        "catalog_id": "b5a12567-391b-4caa-b3fc-e5d81673937b",
         "properties": [
           {
             "name": "type",
@@ -57,13 +53,13 @@
       "name": "(P) GN Force Field",
       "id_type": "NODETREE",
       "files": [
-        "4.4 Particle Simulation Modifier V5.blend"
+        "外部节点/4.4 Particle Simulation Modifier V5.blend"
       ],
       "bl_versions": {
         "min": "5.2"
       },
       "meta": {
-        "catalog_id": "0f87750b-60af-43ff-9bbb-25df6ac5b77d",
+        "catalog_id": "b5a12567-391b-4caa-b3fc-e5d81673937b",
         "properties": [
           {
             "name": "type",
@@ -87,17 +83,13 @@
       "name": "(P) Particle Simulation Modifier V5",
       "id_type": "NODETREE",
       "files": [
-        "4.4 Particle Simulation Modifier V5.blend"
+        "外部节点/4.4 Particle Simulation Modifier V5.blend"
       ],
       "bl_versions": {
         "min": "5.2"
       },
-      "thumbnail": {
-        "url": "4.4%20Particle%20Simulation%20Modifier%20V5_thumbnails/Nodetree/p-particle-simulation-modifier-v5.webp",
-        "hash": "SHA256:a9f0378e860addba23656e83662fd97d8aa1a6656831004f0de89243b1bcc2b6"
-      },
       "meta": {
-        "catalog_id": "22142489-4b81-4722-94c8-1471746d2460",
+        "catalog_id": "b5a12567-391b-4caa-b3fc-e5d81673937b",
         "tags": [
           "Particle Simulation",
           "Modifier"
@@ -127,13 +119,13 @@
       "name": "Flipbook Texture UV",
       "id_type": "NODETREE",
       "files": [
-        "4.4 Particle Simulation Modifier V5.blend"
+        "外部节点/4.4 Particle Simulation Modifier V5.blend"
       ],
       "bl_versions": {
         "min": "5.2"
       },
       "meta": {
-        "catalog_id": "a74b51d1-8638-439a-b457-c305dee5f9c7",
+        "catalog_id": "b5a12567-391b-4caa-b3fc-e5d81673937b",
         "properties": [
           {
             "name": "type",
@@ -144,107 +136,20 @@
       }
     },
     {
-      "name": "\u566a\u6ce2",
+      "name": "Force",
       "id_type": "OBJECT",
       "files": [
-        "4.4 Particle Simulation Modifier V5.blend"
+        "外部节点/4.4 Particle Simulation Modifier V5.blend"
       ],
       "bl_versions": {
         "min": "5.2"
       },
       "thumbnail": {
-        "url": "4.4%20Particle%20Simulation%20Modifier%20V5_thumbnails/Object/.webp",
+        "url": "%E5%A4%96%E9%83%A8%E8%8A%82%E7%82%B9/4.4%20Particle%20Simulation%20Modifier%20V5_thumbnails/Object/force.webp",
         "hash": "SHA256:ee487adbc7992260610e44066dfef83052b9a65b6b9034d5f70e9d83cd297c03"
       },
       "meta": {
-        "catalog_id": "0f87750b-60af-43ff-9bbb-25df6ac5b77d",
-        "properties": [
-          {
-            "name": "dimensions",
-            "type": "IDP_ARRAY",
-            "value": [
-              2.0,
-              2.0,
-              0.0
-            ],
-            "itemtype": "IDP_FLOAT"
-          }
-        ]
-      }
-    },
-    {
-      "name": "\u6da1\u6d41",
-      "id_type": "OBJECT",
-      "files": [
-        "4.4 Particle Simulation Modifier V5.blend"
-      ],
-      "bl_versions": {
-        "min": "5.2"
-      },
-      "thumbnail": {
-        "url": "4.4%20Particle%20Simulation%20Modifier%20V5_thumbnails/Object/.webp",
-        "hash": "SHA256:ee487adbc7992260610e44066dfef83052b9a65b6b9034d5f70e9d83cd297c03"
-      },
-      "meta": {
-        "catalog_id": "0f87750b-60af-43ff-9bbb-25df6ac5b77d",
-        "properties": [
-          {
-            "name": "dimensions",
-            "type": "IDP_ARRAY",
-            "value": [
-              2.225121259689331,
-              2.225120782852173,
-              0.0
-            ],
-            "itemtype": "IDP_FLOAT"
-          }
-        ]
-      }
-    },
-    {
-      "name": "\u7403\u5f62",
-      "id_type": "OBJECT",
-      "files": [
-        "4.4 Particle Simulation Modifier V5.blend"
-      ],
-      "bl_versions": {
-        "min": "5.2"
-      },
-      "thumbnail": {
-        "url": "4.4%20Particle%20Simulation%20Modifier%20V5_thumbnails/Object/.webp",
-        "hash": "SHA256:ee487adbc7992260610e44066dfef83052b9a65b6b9034d5f70e9d83cd297c03"
-      },
-      "meta": {
-        "catalog_id": "0f87750b-60af-43ff-9bbb-25df6ac5b77d",
-        "properties": [
-          {
-            "name": "dimensions",
-            "type": "IDP_ARRAY",
-            "value": [
-              2.0,
-              2.0,
-              0.0
-            ],
-            "itemtype": "IDP_FLOAT"
-          }
-        ]
-      }
-    },
-    {
-      "name": "\u98ce\u529b",
-      "id_type": "OBJECT",
-      "files": [
-        "4.4 Particle Simulation Modifier V5.blend"
-      ],
-      "bl_versions": {
-        "min": "5.2"
-      },
-      "thumbnail": {
-        "url": "4.4%20Particle%20Simulation%20Modifier%20V5_thumbnails/Object/.webp",
-        "hash": "SHA256:ee487adbc7992260610e44066dfef83052b9a65b6b9034d5f70e9d83cd297c03"
-      },
-      "meta": {
-        "catalog_id": "0f87750b-60af-43ff-9bbb-25df6ac5b77d",
+        "catalog_id": "b5a12567-391b-4caa-b3fc-e5d81673937b",
         "properties": [
           {
             "name": "dimensions",
@@ -260,65 +165,88 @@
       }
     },
     {
-      "name": "Camera Plane Scale",
-      "id_type": "NODETREE",
+      "name": "Force.001",
+      "id_type": "OBJECT",
       "files": [
-        "Camera Plane Scale.blend"
-      ],
-      "bl_versions": {
-        "min": "4.5"
-      },
-      "thumbnail": {
-        "url": "Camera%20Plane%20Scale_thumbnails/Nodetree/camera-plane-scale.webp",
-        "hash": "SHA256:1cc937c32a76c3927973b8b6e10edc36e9db0496646003ffb9e1154bea7f48c0"
-      },
-      "meta": {
-        "tags": [
-          "Camera",
-          "Plane"
-        ],
-        "author": "ZhengYuanhao",
-        "description": "Scaling the image plane to fit the camera frame via geometry nodes",
-        "copyright": "ZhengYuanhao",
-        "properties": [
-          {
-            "name": "type",
-            "type": "IDP_INT",
-            "value": 3
-          },
-          {
-            "name": "geometry_node_asset_traits_flag",
-            "type": "IDP_INT",
-            "value": 64
-          },
-          {
-            "name": "node_tool_idname",
-            "type": "IDP_STRING",
-            "value": "geometry.camera_plane_scale"
-          }
-        ]
-      }
-    },
-    {
-      "name": "depth_fade",
-      "id_type": "NODETREE",
-      "files": [
-        "depth_fade.blend"
+        "外部节点/4.4 Particle Simulation Modifier V5.blend"
       ],
       "bl_versions": {
         "min": "5.2"
       },
       "thumbnail": {
-        "url": "depth_fade_thumbnails/Nodetree/depth_fade.webp",
-        "hash": "SHA256:fa641303d834e28c43008943d8888cc42d15b10554d952ded35bfb66e131cd50"
+        "url": "%E5%A4%96%E9%83%A8%E8%8A%82%E7%82%B9/4.4%20Particle%20Simulation%20Modifier%20V5_thumbnails/Object/force001.webp",
+        "hash": "SHA256:ee487adbc7992260610e44066dfef83052b9a65b6b9034d5f70e9d83cd297c03"
       },
       "meta": {
-        "catalog_id": "d3dbe59d-d96b-47aa-8bc6-1a44d5c20064",
+        "catalog_id": "b5a12567-391b-4caa-b3fc-e5d81673937b",
         "properties": [
           {
-            "name": "type",
-            "type": "IDP_INT",
-            "value": 0
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              2.0,
+              2.0,
+              0.0
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Force.003",
+      "id_type": "OBJECT",
+      "files": [
+        "外部节点/4.4 Particle Simulation Modifier V5.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "%E5%A4%96%E9%83%A8%E8%8A%82%E7%82%B9/4.4%20Particle%20Simulation%20Modifier%20V5_thumbnails/Object/force003.webp",
+        "hash": "SHA256:ee487adbc7992260610e44066dfef83052b9a65b6b9034d5f70e9d83cd297c03"
+      },
+      "meta": {
+        "catalog_id": "b5a12567-391b-4caa-b3fc-e5d81673937b",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              2.0,
+              2.0,
+              0.0
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Force.004",
+      "id_type": "OBJECT",
+      "files": [
+        "外部节点/4.4 Particle Simulation Modifier V5.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "%E5%A4%96%E9%83%A8%E8%8A%82%E7%82%B9/4.4%20Particle%20Simulation%20Modifier%20V5_thumbnails/Object/force004.webp",
+        "hash": "SHA256:ee487adbc7992260610e44066dfef83052b9a65b6b9034d5f70e9d83cd297c03"
+      },
+      "meta": {
+        "catalog_id": "b5a12567-391b-4caa-b3fc-e5d81673937b",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              2.225121259689331,
+              2.225120782852173,
+              0.0
+            ],
+            "itemtype": "IDP_FLOAT"
           }
         ]
       }
@@ -327,17 +255,17 @@
       "name": "Fit Curve",
       "id_type": "NODETREE",
       "files": [
-        "fit-curve.blend"
+        "外部节点/fit-curve.blend"
       ],
       "bl_versions": {
         "min": "5.2"
       },
       "thumbnail": {
-        "url": "fit-curve_thumbnails/Nodetree/fit-curve.webp",
+        "url": "%E5%A4%96%E9%83%A8%E8%8A%82%E7%82%B9/fit-curve_thumbnails/Nodetree/fit-curve.webp",
         "hash": "SHA256:574eb7e7e33dc74d44633f0771272495f50b1ac710940a5e036f79fbade59e70"
       },
       "meta": {
-        "catalog_id": "7424e200-b7cd-4fb1-aa97-ba6118e1c3ec",
+        "catalog_id": "b5a12567-391b-4caa-b3fc-e5d81673937b",
         "author": "Mark Kingsnorth",
         "description": "Aligns an object to a curve in world space with stretch, rotation, and offset controls.",
         "properties": [
@@ -360,91 +288,20 @@
       }
     },
     {
-      "name": "point_light_toon",
-      "id_type": "NODETREE",
-      "files": [
-        "light_toon.blend"
-      ],
-      "bl_versions": {
-        "min": "4.5"
-      },
-      "thumbnail": {
-        "url": "light_toon_thumbnails/Nodetree/point_light_toon.webp",
-        "hash": "SHA256:a5545e4105bd422a42a9ab166815c78392a97e2bd808361860e5429cdcdca73c"
-      },
-      "meta": {
-        "catalog_id": "d0e8a4ad-6590-4f07-8544-9b373c61718d",
-        "properties": [
-          {
-            "name": "type",
-            "type": "IDP_INT",
-            "value": 0
-          }
-        ]
-      }
-    },
-    {
-      "name": "sun_light_toon",
-      "id_type": "NODETREE",
-      "files": [
-        "light_toon.blend"
-      ],
-      "bl_versions": {
-        "min": "4.5"
-      },
-      "thumbnail": {
-        "url": "light_toon_thumbnails/Nodetree/sun_light_toon.webp",
-        "hash": "SHA256:9922eb5794ba16b64d643288c6e276fbcd680c774b0425c9afb9c0f3f31b035a"
-      },
-      "meta": {
-        "catalog_id": "d0e8a4ad-6590-4f07-8544-9b373c61718d",
-        "properties": [
-          {
-            "name": "type",
-            "type": "IDP_INT",
-            "value": 0
-          }
-        ]
-      }
-    },
-    {
-      "name": "Paint Filter",
-      "id_type": "NODETREE",
-      "files": [
-        "Paint Filter.blend"
-      ],
-      "bl_versions": {
-        "min": "4.4"
-      },
-      "meta": {
-        "properties": [
-          {
-            "name": "type",
-            "type": "IDP_INT",
-            "value": 1
-          },
-          {
-            "name": "compositor_node_asset_traits_flag",
-            "type": "IDP_INT",
-            "value": 1
-          }
-        ]
-      }
-    },
-    {
       "name": "Fish",
       "id_type": "OBJECT",
       "files": [
-        "Procedural Fish Animation (3.0).blend"
+        "待优化/Procedural Fish Animation (3.0).blend"
       ],
       "bl_versions": {
-        "min": "4.3"
+        "min": "5.2"
       },
       "thumbnail": {
-        "url": "Procedural%20Fish%20Animation%20%283.0%29_thumbnails/Object/fish.webp",
+        "url": "%E5%BE%85%E4%BC%98%E5%8C%96/Procedural%20Fish%20Animation%20%283.0%29_thumbnails/Object/fish.webp",
         "hash": "SHA256:8765cb0341c59433c2ef3f4a7ce562aceab816db9af562d72d974d7461190563"
       },
       "meta": {
+        "catalog_id": "08ba3229-41f1-4d78-8fbd-f2aed02ce4b0",
         "properties": [
           {
             "name": "dimensions",
@@ -460,20 +317,120 @@
       }
     },
     {
-      "name": "shape_cloud",
-      "id_type": "OBJECT",
+      "name": "流云材质",
+      "id_type": "MATERIAL",
       "files": [
-        "shape_cloud.blend"
+        "待优化/流云生成器.blend"
       ],
       "bl_versions": {
         "min": "5.2"
       },
       "thumbnail": {
-        "url": "shape_cloud_thumbnails/Object/shape_cloud.webp",
-        "hash": "SHA256:c8a984406240a12109e5ec98059ae93b1e95d4139b91ed3b25bd4ddf376a9aeb"
+        "url": "%E5%BE%85%E4%BC%98%E5%8C%96/%E6%B5%81%E4%BA%91%E7%94%9F%E6%88%90%E5%99%A8_thumbnails/Material/.webp",
+        "hash": "SHA256:b25f15b7c0b0f72f6763dc3f0d8cd2b3d71e10703016d4c0c6869308379d174d"
       },
       "meta": {
-        "catalog_id": "b263dac6-6e15-432d-94a9-0ef991b45104",
+        "catalog_id": "08ba3229-41f1-4d78-8fbd-f2aed02ce4b0"
+      }
+    },
+    {
+      "name": "流云生成器",
+      "id_type": "NODETREE",
+      "files": [
+        "待优化/流云生成器.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "%E5%BE%85%E4%BC%98%E5%8C%96/%E6%B5%81%E4%BA%91%E7%94%9F%E6%88%90%E5%99%A8_thumbnails/Nodetree/.webp",
+        "hash": "SHA256:b4e6ed14795c692ba30127bfb9b371cb7a15fd02c049fee3f2ea06c8153dcaa6"
+      },
+      "meta": {
+        "catalog_id": "08ba3229-41f1-4d78-8fbd-f2aed02ce4b0",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          },
+          {
+            "name": "geometry_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 64
+          },
+          {
+            "name": "node_tool_idname",
+            "type": "IDP_STRING",
+            "value": "geometry._"
+          }
+        ]
+      }
+    },
+    {
+      "name": "depth_fade",
+      "id_type": "NODETREE",
+      "files": [
+        "自研节点/depth_fade.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "%E8%87%AA%E7%A0%94%E8%8A%82%E7%82%B9/depth_fade_thumbnails/Nodetree/depth_fade.webp",
+        "hash": "SHA256:fa641303d834e28c43008943d8888cc42d15b10554d952ded35bfb66e131cd50"
+      },
+      "meta": {
+        "catalog_id": "8c812edc-4a85-4d8f-9383-3f7e4cf4783c",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "line_scatter",
+      "id_type": "NODETREE",
+      "files": [
+        "自研节点/line_scatter.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "8c812edc-4a85-4d8f-9383-3f7e4cf4783c",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          },
+          {
+            "name": "geometry_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 64
+          }
+        ]
+      }
+    },
+    {
+      "name": "shape_cloud",
+      "id_type": "OBJECT",
+      "files": [
+        "自研节点/shape_cloud.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "%E8%87%AA%E7%A0%94%E8%8A%82%E7%82%B9/shape_cloud_thumbnails/Object/shape_cloud.webp",
+        "hash": "SHA256:8ff19f2a8206dd3aa586c6f613c1f5a0582a53529b3a823de3f909928ee92053"
+      },
+      "meta": {
+        "catalog_id": "8c812edc-4a85-4d8f-9383-3f7e4cf4783c",
         "properties": [
           {
             "name": "dimensions",
@@ -489,20 +446,16 @@
       }
     },
     {
-      "name": "\u89c6\u5dee\u6620\u5c04",
+      "name": "视差映射",
       "id_type": "NODETREE",
       "files": [
-        "SHICHA.blend"
+        "自研节点/SHICHA.blend"
       ],
       "bl_versions": {
         "min": "5.2"
       },
-      "thumbnail": {
-        "url": "SHICHA_thumbnails/Nodetree/.webp",
-        "hash": "SHA256:8f5ed9e3bf93d30415608ab976031fd20234e2d6f480b2064c97b1daca0d4596"
-      },
       "meta": {
-        "catalog_id": "0160b398-d5d0-4e5f-9195-96b8b50b01ff",
+        "catalog_id": "8c812edc-4a85-4d8f-9383-3f7e4cf4783c",
         "properties": [
           {
             "name": "type",
@@ -513,33 +466,372 @@
       }
     },
     {
-      "name": "\u6807\u51c6\u7c92\u5b50",
+      "name": "trail_mat",
       "id_type": "MATERIAL",
       "files": [
-        "simple_particle0528.blend"
+        "自研节点/trailsFX_V5.0.blend"
       ],
       "bl_versions": {
         "min": "5.2"
       },
       "thumbnail": {
-        "url": "simple_particle0528_thumbnails/Material/.webp",
+        "url": "%E8%87%AA%E7%A0%94%E8%8A%82%E7%82%B9/trailsFX_V5.0_thumbnails/Material/trail_mat.webp",
+        "hash": "SHA256:0cce04dd85108a43bf6014c67ee7f3454316be8db27fe1c8e1f6ec8e147b4e95"
+      },
+      "meta": {
+        "catalog_id": "8c812edc-4a85-4d8f-9383-3f7e4cf4783c"
+      }
+    },
+    {
+      "name": "trails_fx",
+      "id_type": "NODETREE",
+      "files": [
+        "自研节点/trailsFX_V5.0.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "%E8%87%AA%E7%A0%94%E8%8A%82%E7%82%B9/trailsFX_V5.0_thumbnails/Nodetree/trails_fx.webp",
+        "hash": "SHA256:0cce04dd85108a43bf6014c67ee7f3454316be8db27fe1c8e1f6ec8e147b4e95"
+      },
+      "meta": {
+        "catalog_id": "8c812edc-4a85-4d8f-9383-3f7e4cf4783c",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          },
+          {
+            "name": "geometry_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 64
+          },
+          {
+            "name": "node_tool_idname",
+            "type": "IDP_STRING",
+            "value": "geometry.trails_fx"
+          }
+        ]
+      }
+    },
+    {
+      "name": "trails_fx",
+      "id_type": "OBJECT",
+      "files": [
+        "自研节点/trailsFX_V5.0.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "%E8%87%AA%E7%A0%94%E8%8A%82%E7%82%B9/trailsFX_V5.0_thumbnails/Object/trails_fx.webp",
+        "hash": "SHA256:0cce04dd85108a43bf6014c67ee7f3454316be8db27fe1c8e1f6ec8e147b4e95"
+      },
+      "meta": {
+        "catalog_id": "8c812edc-4a85-4d8f-9383-3f7e4cf4783c",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              2.0,
+              2.0,
+              0.0
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "点拖尾",
+      "id_type": "NODETREE",
+      "files": [
+        "自研节点/点拖尾.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "%E8%87%AA%E7%A0%94%E8%8A%82%E7%82%B9/%E7%82%B9%E6%8B%96%E5%B0%BE_thumbnails/Nodetree/.webp",
+        "hash": "SHA256:bf3615ec71f045f77cb594cd226a9aafc56d8273e40764feee8d8a875b9395f0"
+      },
+      "meta": {
+        "catalog_id": "8c812edc-4a85-4d8f-9383-3f7e4cf4783c",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          },
+          {
+            "name": "geometry_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 64
+          }
+        ]
+      }
+    },
+    {
+      "name": "点拖尾demo",
+      "id_type": "OBJECT",
+      "files": [
+        "自研节点/点拖尾.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "%E8%87%AA%E7%A0%94%E8%8A%82%E7%82%B9/%E7%82%B9%E6%8B%96%E5%B0%BE_thumbnails/Object/demo.webp",
+        "hash": "SHA256:086c2f2391bbe161c890b059270f6f519030ba8af774ed93dd251c3a1d0820ef"
+      },
+      "meta": {
+        "catalog_id": "8c812edc-4a85-4d8f-9383-3f7e4cf4783c",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              2.0,
+              2.0,
+              0.0
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    },
+    {
+      "name": "简易散布_V3",
+      "id_type": "NODETREE",
+      "files": [
+        "自研节点/简易散布_V3.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "%E8%87%AA%E7%A0%94%E8%8A%82%E7%82%B9/%E7%AE%80%E6%98%93%E6%95%A3%E5%B8%83_V3_thumbnails/Nodetree/v3.webp",
+        "hash": "SHA256:e6549f59dc5cda1715ac6c5bb70c2ea7d45db82119e4a82f8973652e02abf9c1"
+      },
+      "meta": {
+        "catalog_id": "8c812edc-4a85-4d8f-9383-3f7e4cf4783c",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          },
+          {
+            "name": "geometry_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 64
+          },
+          {
+            "name": "node_tool_idname",
+            "type": "IDP_STRING",
+            "value": "geometry._"
+          }
+        ]
+      }
+    },
+    {
+      "name": "模板粒子材质",
+      "id_type": "MATERIAL",
+      "files": [
+        "自研节点/简易粒子_V2.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "%E8%87%AA%E7%A0%94%E8%8A%82%E7%82%B9/%E7%AE%80%E6%98%93%E7%B2%92%E5%AD%90_V2_thumbnails/Material/.webp",
+        "hash": "SHA256:a827664c3f947953155217d8b21a9a81efebb8e5879700a8010b2f9ca803249f"
+      },
+      "meta": {
+        "catalog_id": "8c812edc-4a85-4d8f-9383-3f7e4cf4783c"
+      }
+    },
+    {
+      "name": "二极化分布调整",
+      "id_type": "NODETREE",
+      "files": [
+        "自研节点/简易粒子_V2.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "%E8%87%AA%E7%A0%94%E8%8A%82%E7%82%B9/%E7%AE%80%E6%98%93%E7%B2%92%E5%AD%90_V2_thumbnails/Nodetree/.webp",
+        "hash": "SHA256:793f84d87a4389e49da2163bcf00324504aeb95c80226c69669f67ca21609e37"
+      },
+      "meta": {
+        "catalog_id": "8c812edc-4a85-4d8f-9383-3f7e4cf4783c",
+        "description": "把 0~1 的数值向两端分化。对比度 = 分化强度（0 = 直线，不改变），中心 = 分界点位置（往哪一端更多）。结果严格落在 0~1。",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "简易粒子V2",
+      "id_type": "NODETREE",
+      "files": [
+        "自研节点/简易粒子_V2.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "%E8%87%AA%E7%A0%94%E8%8A%82%E7%82%B9/%E7%AE%80%E6%98%93%E7%B2%92%E5%AD%90_V2_thumbnails/Nodetree/v2.webp",
+        "hash": "SHA256:f761418765c51bc4c74c3f98e3d46b558817194433ac44e20997dab25d3a0a65"
+      },
+      "meta": {
+        "catalog_id": "8c812edc-4a85-4d8f-9383-3f7e4cf4783c",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          },
+          {
+            "name": "geometry_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 64
+          }
+        ]
+      }
+    },
+    {
+      "name": "随机值_二极化调整",
+      "id_type": "NODETREE",
+      "files": [
+        "自研节点/简易粒子_V2.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "%E8%87%AA%E7%A0%94%E8%8A%82%E7%82%B9/%E7%AE%80%E6%98%93%E7%B2%92%E5%AD%90_V2_thumbnails/Nodetree/.webp",
+        "hash": "SHA256:793f84d87a4389e49da2163bcf00324504aeb95c80226c69669f67ca21609e37"
+      },
+      "meta": {
+        "catalog_id": "8c812edc-4a85-4d8f-9383-3f7e4cf4783c",
+        "description": "按菜单切换数据类型（浮点 / 向量 / 旋转）；每分量独立随机 + 二极化分布塑形。",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "风格化树叶",
+      "id_type": "MATERIAL",
+      "files": [
+        "自研节点/风格化树叶.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "%E8%87%AA%E7%A0%94%E8%8A%82%E7%82%B9/%E9%A3%8E%E6%A0%BC%E5%8C%96%E6%A0%91%E5%8F%B6_thumbnails/Material/.webp",
+        "hash": "SHA256:fe33a1c2850305039ea3fdd5c9d9ea417adf5ab5332bae2a3cd0a1b33147171a"
+      },
+      "meta": {
+        "catalog_id": "8c812edc-4a85-4d8f-9383-3f7e4cf4783c"
+      }
+    },
+    {
+      "name": "风格化树叶",
+      "id_type": "NODETREE",
+      "files": [
+        "自研节点/风格化树叶.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "%E8%87%AA%E7%A0%94%E8%8A%82%E7%82%B9/%E9%A3%8E%E6%A0%BC%E5%8C%96%E6%A0%91%E5%8F%B6_thumbnails/Nodetree/.webp",
+        "hash": "SHA256:88eb32a0b7612f9887dde6f7b9a37873b7538725b968d008d652ff5723264547"
+      },
+      "meta": {
+        "catalog_id": "8c812edc-4a85-4d8f-9383-3f7e4cf4783c",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          },
+          {
+            "name": "geometry_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 64
+          },
+          {
+            "name": "node_tool_idname",
+            "type": "IDP_STRING",
+            "value": "geometry._"
+          }
+        ]
+      }
+    },
+    {
+      "name": "标准粒子",
+      "id_type": "MATERIAL",
+      "files": [
+        "过时/simple_particle0528.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "%E8%BF%87%E6%97%B6/simple_particle0528_thumbnails/Material/.webp",
         "hash": "SHA256:bc482f6f9b11c15f2261d49963fb46954df0c9f7e2875468c73cc9c9f60e3e10"
       },
       "meta": {
-        "catalog_id": "afc09a63-6531-421a-9465-03cb19f2466f"
+        "catalog_id": "19f901d7-ae68-473c-92a1-e183cd98eab5"
+      }
+    },
+    {
+      "name": "random_float",
+      "id_type": "NODETREE",
+      "files": [
+        "过时/simple_particle0528.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "19f901d7-ae68-473c-92a1-e183cd98eab5",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
       }
     },
     {
       "name": "simple_particle",
       "id_type": "NODETREE",
       "files": [
-        "simple_particle0528.blend"
+        "过时/simple_particle0528.blend"
       ],
       "bl_versions": {
         "min": "5.2"
       },
       "meta": {
-        "catalog_id": "9c1bae5c-b464-4b87-a8db-0b508e9b0447",
+        "catalog_id": "19f901d7-ae68-473c-92a1-e183cd98eab5",
         "properties": [
           {
             "name": "type",
@@ -563,17 +855,17 @@
       "name": "simple_particle",
       "id_type": "OBJECT",
       "files": [
-        "simple_particle0528.blend"
+        "过时/simple_particle0528.blend"
       ],
       "bl_versions": {
         "min": "5.2"
       },
       "thumbnail": {
-        "url": "simple_particle0528_thumbnails/Object/simple_particle.webp",
+        "url": "%E8%BF%87%E6%97%B6/simple_particle0528_thumbnails/Object/simple_particle.webp",
         "hash": "SHA256:d771c62a295b71953be9bd7cb5870e5cb25d72def91ecbd00f5629765e01c40d"
       },
       "meta": {
-        "catalog_id": "9c1bae5c-b464-4b87-a8db-0b508e9b0447",
+        "catalog_id": "19f901d7-ae68-473c-92a1-e183cd98eab5",
         "properties": [
           {
             "name": "dimensions",
@@ -584,253 +876,6 @@
               0.0
             ],
             "itemtype": "IDP_FLOAT"
-          }
-        ]
-      }
-    },
-    {
-      "name": "Speed to RSMB",
-      "id_type": "NODETREE",
-      "files": [
-        "Speed to RSMB nodegroup.blend"
-      ],
-      "bl_versions": {
-        "min": "4.3"
-      },
-      "meta": {
-        "properties": [
-          {
-            "name": "type",
-            "type": "IDP_INT",
-            "value": 1
-          },
-          {
-            "name": "compositor_node_asset_traits_flag",
-            "type": "IDP_INT",
-            "value": 1
-          }
-        ]
-      }
-    },
-    {
-      "name": "trails_fx",
-      "id_type": "OBJECT",
-      "files": [
-        "trailsFX_V5.0.blend"
-      ],
-      "bl_versions": {
-        "min": "5.2"
-      },
-      "thumbnail": {
-        "url": "trailsFX_V5.0_thumbnails/Object/trails_fx.webp",
-        "hash": "SHA256:e655276ea2e9663c882f37ebd937cb6f68bc79e2da73684663d56b2a92135862"
-      },
-      "meta": {
-        "catalog_id": "7e67d54f-fa58-4d08-936b-acf537fe91f2",
-        "properties": [
-          {
-            "name": "dimensions",
-            "type": "IDP_ARRAY",
-            "value": [
-              2.0,
-              2.0,
-              0.0
-            ],
-            "itemtype": "IDP_FLOAT"
-          }
-        ]
-      }
-    },
-    {
-      "name": "\u6d41\u4e91\u6750\u8d28",
-      "id_type": "MATERIAL",
-      "files": [
-        "\u6d41\u4e91\u751f\u6210\u5668.blend"
-      ],
-      "bl_versions": {
-        "min": "5.2"
-      },
-      "thumbnail": {
-        "url": "%E6%B5%81%E4%BA%91%E7%94%9F%E6%88%90%E5%99%A8_thumbnails/Material/.webp",
-        "hash": "SHA256:b25f15b7c0b0f72f6763dc3f0d8cd2b3d71e10703016d4c0c6869308379d174d"
-      },
-      "meta": {
-        "catalog_id": "535555d5-4b7d-47c3-aa8e-ee355c3893f4"
-      }
-    },
-    {
-      "name": "\u6d41\u4e91\u751f\u6210\u5668",
-      "id_type": "NODETREE",
-      "files": [
-        "\u6d41\u4e91\u751f\u6210\u5668.blend"
-      ],
-      "bl_versions": {
-        "min": "5.2"
-      },
-      "thumbnail": {
-        "url": "%E6%B5%81%E4%BA%91%E7%94%9F%E6%88%90%E5%99%A8_thumbnails/Nodetree/.webp",
-        "hash": "SHA256:b4e6ed14795c692ba30127bfb9b371cb7a15fd02c049fee3f2ea06c8153dcaa6"
-      },
-      "meta": {
-        "catalog_id": "535555d5-4b7d-47c3-aa8e-ee355c3893f4",
-        "properties": [
-          {
-            "name": "type",
-            "type": "IDP_INT",
-            "value": 3
-          },
-          {
-            "name": "geometry_node_asset_traits_flag",
-            "type": "IDP_INT",
-            "value": 64
-          },
-          {
-            "name": "node_tool_idname",
-            "type": "IDP_STRING",
-            "value": "geometry._"
-          }
-        ]
-      }
-    },
-    {
-      "name": "\u70b9\u62d6\u5c3e",
-      "id_type": "NODETREE",
-      "files": [
-        "\u70b9\u62d6\u5c3e.blend"
-      ],
-      "bl_versions": {
-        "min": "5.2"
-      },
-      "thumbnail": {
-        "url": "%E7%82%B9%E6%8B%96%E5%B0%BE_thumbnails/Nodetree/.webp",
-        "hash": "SHA256:bf3615ec71f045f77cb594cd226a9aafc56d8273e40764feee8d8a875b9395f0"
-      },
-      "meta": {
-        "catalog_id": "c2cd4912-09ed-4643-821e-dddbfbe8c3c5",
-        "properties": [
-          {
-            "name": "type",
-            "type": "IDP_INT",
-            "value": 3
-          },
-          {
-            "name": "geometry_node_asset_traits_flag",
-            "type": "IDP_INT",
-            "value": 64
-          }
-        ]
-      }
-    },
-    {
-      "name": "\u70b9\u62d6\u5c3edemo",
-      "id_type": "OBJECT",
-      "files": [
-        "\u70b9\u62d6\u5c3e.blend"
-      ],
-      "bl_versions": {
-        "min": "5.2"
-      },
-      "thumbnail": {
-        "url": "%E7%82%B9%E6%8B%96%E5%B0%BE_thumbnails/Object/demo.webp",
-        "hash": "SHA256:086c2f2391bbe161c890b059270f6f519030ba8af774ed93dd251c3a1d0820ef"
-      },
-      "meta": {
-        "catalog_id": "c2cd4912-09ed-4643-821e-dddbfbe8c3c5",
-        "properties": [
-          {
-            "name": "dimensions",
-            "type": "IDP_ARRAY",
-            "value": [
-              2.0,
-              2.0,
-              0.0
-            ],
-            "itemtype": "IDP_FLOAT"
-          }
-        ]
-      }
-    },
-    {
-      "name": "\u7b80\u5355\u6563\u5e03",
-      "id_type": "NODETREE",
-      "files": [
-        "\u7b80\u5355\u6563\u5e03_v2.blend"
-      ],
-      "bl_versions": {
-        "min": "5.2"
-      },
-      "thumbnail": {
-        "url": "%E7%AE%80%E5%8D%95%E6%95%A3%E5%B8%83_v2_thumbnails/Nodetree/.webp",
-        "hash": "SHA256:e6549f59dc5cda1715ac6c5bb70c2ea7d45db82119e4a82f8973652e02abf9c1"
-      },
-      "meta": {
-        "catalog_id": "57bdee2d-341d-4f0f-b560-9d903f5ace35",
-        "properties": [
-          {
-            "name": "type",
-            "type": "IDP_INT",
-            "value": 3
-          },
-          {
-            "name": "geometry_node_asset_traits_flag",
-            "type": "IDP_INT",
-            "value": 64
-          },
-          {
-            "name": "node_tool_idname",
-            "type": "IDP_STRING",
-            "value": "geometry._"
-          }
-        ]
-      }
-    },
-    {
-      "name": "\u98ce\u683c\u5316\u6811\u53f6",
-      "id_type": "MATERIAL",
-      "files": [
-        "\u98ce\u683c\u5316\u6811\u53f6.blend"
-      ],
-      "bl_versions": {
-        "min": "5.2"
-      },
-      "thumbnail": {
-        "url": "%E9%A3%8E%E6%A0%BC%E5%8C%96%E6%A0%91%E5%8F%B6_thumbnails/Material/.webp",
-        "hash": "SHA256:fe33a1c2850305039ea3fdd5c9d9ea417adf5ab5332bae2a3cd0a1b33147171a"
-      },
-      "meta": {
-        "catalog_id": "0c05a480-f16d-46ce-adfe-3ce54e13a953"
-      }
-    },
-    {
-      "name": "\u98ce\u683c\u5316\u6811\u53f6",
-      "id_type": "NODETREE",
-      "files": [
-        "\u98ce\u683c\u5316\u6811\u53f6.blend"
-      ],
-      "bl_versions": {
-        "min": "5.2"
-      },
-      "thumbnail": {
-        "url": "%E9%A3%8E%E6%A0%BC%E5%8C%96%E6%A0%91%E5%8F%B6_thumbnails/Nodetree/.webp",
-        "hash": "SHA256:88eb32a0b7612f9887dde6f7b9a37873b7538725b968d008d652ff5723264547"
-      },
-      "meta": {
-        "catalog_id": "0c05a480-f16d-46ce-adfe-3ce54e13a953",
-        "properties": [
-          {
-            "name": "type",
-            "type": "IDP_INT",
-            "value": 3
-          },
-          {
-            "name": "geometry_node_asset_traits_flag",
-            "type": "IDP_INT",
-            "value": 64
-          },
-          {
-            "name": "node_tool_idname",
-            "type": "IDP_STRING",
-            "value": "geometry._"
           }
         ]
       }
@@ -838,116 +883,109 @@
   ],
   "files": [
     {
-      "path": "4.3 Trail Modifier V3.blend",
-      "size_in_bytes": 2267988,
-      "hash": "SHA256:b3790ea7001b3d98070c11403cba502e60ca52e1da40c6c9ee88f1301dc9bc4f",
+      "path": "外部节点/4.3 Trail Modifier V3.blend",
+      "size_in_bytes": 1802140,
+      "hash": "SHA256:3dd14cd07359957d0182b6d332f912b7a5998b26b0831f6871386dbd87a6b242",
       "blender_version": "5.2.44",
-      "url": "4.3%20Trail%20Modifier%20V3.blend"
+      "url": "%E5%A4%96%E9%83%A8%E8%8A%82%E7%82%B9/4.3%20Trail%20Modifier%20V3.blend"
     },
     {
-      "path": "4.4 Particle Simulation Modifier V5.blend",
-      "size_in_bytes": 10341140,
-      "hash": "SHA256:36abe5cc2e35ae331d87247788e4e3758ba28cd685350806191ec5c0c847e371",
+      "path": "外部节点/4.4 Particle Simulation Modifier V5.blend",
+      "size_in_bytes": 10061688,
+      "hash": "SHA256:e1fb01f6d78f59bbe0c6b3e395a67b840ffe2509952c505f949835382fc51452",
       "blender_version": "5.2.44",
-      "url": "4.4%20Particle%20Simulation%20Modifier%20V5.blend"
+      "url": "%E5%A4%96%E9%83%A8%E8%8A%82%E7%82%B9/4.4%20Particle%20Simulation%20Modifier%20V5.blend"
     },
     {
-      "path": "Camera Plane Scale.blend",
-      "size_in_bytes": 2969932,
-      "hash": "SHA256:87845afc28843b8c7c90e2200f9bc5cba9e0a2ad30ce5f5098dad931315ee0d7",
-      "blender_version": "4.5.87",
-      "url": "Camera%20Plane%20Scale.blend"
-    },
-    {
-      "path": "Paint Filter.blend",
-      "size_in_bytes": 1191285,
-      "hash": "SHA256:6414bbd1642e14d126f0624955b1b5466c33b2acd42a704d8062d393548cdf71",
-      "blender_version": "4.4.30",
-      "url": "Paint%20Filter.blend"
-    },
-    {
-      "path": "Procedural Fish Animation (3.0).blend",
-      "size_in_bytes": 2056130,
-      "hash": "SHA256:dffad7931ff2a780b3f2545f37475769891fefdb5bfd7bc77c70e7c2d3f7cb7a",
-      "blender_version": "4.3.32",
-      "url": "Procedural%20Fish%20Animation%20%283.0%29.blend"
-    },
-    {
-      "path": "SHICHA.blend",
-      "size_in_bytes": 194730,
-      "hash": "SHA256:d2b8e8fddeea145c63f04c0f2356bdb4c850267d17ac66a6c839942a2c627900",
-      "blender_version": "5.2.44"
-    },
-    {
-      "path": "Speed to RSMB nodegroup.blend",
-      "size_in_bytes": 1044524,
-      "hash": "SHA256:219b113943e37535da77438ac54e7965f3702cc51bd1ddd284d121cee937879b",
-      "blender_version": "4.3.32",
-      "url": "Speed%20to%20RSMB%20nodegroup.blend"
-    },
-    {
-      "path": "depth_fade.blend",
-      "size_in_bytes": 163514,
-      "hash": "SHA256:8a9031be7038a0858dc04ce4e955fb5a25379d2c42024aeeb60a341386392909",
-      "blender_version": "5.2.44"
-    },
-    {
-      "path": "fit-curve.blend",
-      "size_in_bytes": 1722957,
-      "hash": "SHA256:0e316160f31e4e386d050b300ec9b3cf356a45a1e8ff17c5ac59e8b71c4e8caa",
-      "blender_version": "5.2.44"
-    },
-    {
-      "path": "light_toon.blend",
-      "size_in_bytes": 8503264,
-      "hash": "SHA256:36c0c1c4a8323661daf444984a67f87173233941735af75128ed8aea72d7be50",
-      "blender_version": "4.5.87"
-    },
-    {
-      "path": "shape_cloud.blend",
-      "size_in_bytes": 251986,
-      "hash": "SHA256:61a1f0c2f491f412b091bf54fd71666b3b1c2a8b68c6d82ba4bf893ee10feae3",
-      "blender_version": "5.2.44"
-    },
-    {
-      "path": "simple_particle0528.blend",
-      "size_in_bytes": 3506975,
-      "hash": "SHA256:5b1f311fd522a64d009f5f1c31e46717ff2c8667e2e512f7f2f8748c819aa7ca",
-      "blender_version": "5.2.44"
-    },
-    {
-      "path": "trailsFX_V5.0.blend",
-      "size_in_bytes": 66359093,
-      "hash": "SHA256:f363b12484cdb6bf2cfc68f24f36cf8ae1cc031f3105a8fc75a2afc9d66bd123",
-      "blender_version": "5.2.44"
-    },
-    {
-      "path": "\u6d41\u4e91\u751f\u6210\u5668.blend",
-      "size_in_bytes": 5964858,
-      "hash": "SHA256:404549dfa03764b8ff074d1f505710e118463cabbf8ddcf0513ca48d5530eb0b",
+      "path": "外部节点/fit-curve.blend",
+      "size_in_bytes": 1722105,
+      "hash": "SHA256:b672d26e0ad8fccbe1f1c7b442f726d56e38204fef31901eb275721664aa3ecd",
       "blender_version": "5.2.44",
-      "url": "%E6%B5%81%E4%BA%91%E7%94%9F%E6%88%90%E5%99%A8.blend"
+      "url": "%E5%A4%96%E9%83%A8%E8%8A%82%E7%82%B9/fit-curve.blend"
     },
     {
-      "path": "\u70b9\u62d6\u5c3e.blend",
-      "size_in_bytes": 28026756,
-      "hash": "SHA256:387f74714ac507edcb927b2a1f3676c58fa7051d03fa36faabfb98d93b468d52",
+      "path": "待优化/Procedural Fish Animation (3.0).blend",
+      "size_in_bytes": 1996018,
+      "hash": "SHA256:51bb7968f97e206de6e82444152fa6515a3ca260d85a38aa0428bff86e6c0cc6",
       "blender_version": "5.2.44",
-      "url": "%E7%82%B9%E6%8B%96%E5%B0%BE.blend"
+      "url": "%E5%BE%85%E4%BC%98%E5%8C%96/Procedural%20Fish%20Animation%20%283.0%29.blend"
     },
     {
-      "path": "\u7b80\u5355\u6563\u5e03_v2.blend",
-      "size_in_bytes": 2969837,
-      "hash": "SHA256:c36ec5b1ac50e3c021e2b1743b61961b5edaa8d13015794b20687a59908f8f8e",
+      "path": "待优化/流云生成器.blend",
+      "size_in_bytes": 5966003,
+      "hash": "SHA256:eca51ccc7b7cd26482817cf83750bce5bc97c33da5e04fcf3e271b2574454460",
       "blender_version": "5.2.44",
-      "url": "%E7%AE%80%E5%8D%95%E6%95%A3%E5%B8%83_v2.blend"
+      "url": "%E5%BE%85%E4%BC%98%E5%8C%96/%E6%B5%81%E4%BA%91%E7%94%9F%E6%88%90%E5%99%A8.blend"
     },
     {
-      "path": "\u98ce\u683c\u5316\u6811\u53f6.blend",
-      "size_in_bytes": 8723886,
-      "hash": "SHA256:749bdd4262f5c1035399fb9d4eaf1d93fe919e91dedb9ae5fdd6699b09ddfa59",
+      "path": "自研节点/SHICHA.blend",
+      "size_in_bytes": 133256,
+      "hash": "SHA256:b4a3902174f488a565a77d8042de53aef6dd47f0795dc5668a00ea7e634a3bda",
       "blender_version": "5.2.44",
-      "url": "%E9%A3%8E%E6%A0%BC%E5%8C%96%E6%A0%91%E5%8F%B6.blend"
+      "url": "%E8%87%AA%E7%A0%94%E8%8A%82%E7%82%B9/SHICHA.blend"
+    },
+    {
+      "path": "自研节点/depth_fade.blend",
+      "size_in_bytes": 163620,
+      "hash": "SHA256:f8cdd9639f9e86f3ff2febc88c0f8be1c7eed5a42373bda41fbbdf7ceaf8cba1",
+      "blender_version": "5.2.44",
+      "url": "%E8%87%AA%E7%A0%94%E8%8A%82%E7%82%B9/depth_fade.blend"
+    },
+    {
+      "path": "自研节点/line_scatter.blend",
+      "size_in_bytes": 186121,
+      "hash": "SHA256:312dc2511c43b3ba87f908a4e80e01947f0f841c3885e2343d40bd9fce8ce567",
+      "blender_version": "5.2.44",
+      "url": "%E8%87%AA%E7%A0%94%E8%8A%82%E7%82%B9/line_scatter.blend"
+    },
+    {
+      "path": "自研节点/shape_cloud.blend",
+      "size_in_bytes": 168847,
+      "hash": "SHA256:8b345ac2cb5f58ad70d10051707347374c80931fa0613ddb64c037876ef93bf3",
+      "blender_version": "5.2.44",
+      "url": "%E8%87%AA%E7%A0%94%E8%8A%82%E7%82%B9/shape_cloud.blend"
+    },
+    {
+      "path": "自研节点/trailsFX_V5.0.blend",
+      "size_in_bytes": 66421525,
+      "hash": "SHA256:ecc882f59648964f94e4255945a5c55a4d28a65a55f3be75d99a65786136fbff",
+      "blender_version": "5.2.44",
+      "url": "%E8%87%AA%E7%A0%94%E8%8A%82%E7%82%B9/trailsFX_V5.0.blend"
+    },
+    {
+      "path": "自研节点/点拖尾.blend",
+      "size_in_bytes": 28028066,
+      "hash": "SHA256:ddfc1a6fb4bacddab04aab6030bfafec2e9b08ad1fb33d04e794d48bffa23488",
+      "blender_version": "5.2.44",
+      "url": "%E8%87%AA%E7%A0%94%E8%8A%82%E7%82%B9/%E7%82%B9%E6%8B%96%E5%B0%BE.blend"
+    },
+    {
+      "path": "自研节点/简易散布_V3.blend",
+      "size_in_bytes": 3122388,
+      "hash": "SHA256:2876dcee3616b4d74c4c30900e2213ae741fac18875542ee87be561c61be534c",
+      "blender_version": "5.2.44",
+      "url": "%E8%87%AA%E7%A0%94%E8%8A%82%E7%82%B9/%E7%AE%80%E6%98%93%E6%95%A3%E5%B8%83_V3.blend"
+    },
+    {
+      "path": "自研节点/简易粒子_V2.blend",
+      "size_in_bytes": 354670,
+      "hash": "SHA256:f89178ab045ecdcc0d9c3137172141ab470e01a4722b136f7bc2207b014aba1c",
+      "blender_version": "5.2.44",
+      "url": "%E8%87%AA%E7%A0%94%E8%8A%82%E7%82%B9/%E7%AE%80%E6%98%93%E7%B2%92%E5%AD%90_V2.blend"
+    },
+    {
+      "path": "自研节点/风格化树叶.blend",
+      "size_in_bytes": 8722763,
+      "hash": "SHA256:3941dc49a53ce6c458f3215da67bf98d0b609531c2170fdbcd1bc7f71adbdfa6",
+      "blender_version": "5.2.44",
+      "url": "%E8%87%AA%E7%A0%94%E8%8A%82%E7%82%B9/%E9%A3%8E%E6%A0%BC%E5%8C%96%E6%A0%91%E5%8F%B6.blend"
+    },
+    {
+      "path": "过时/simple_particle0528.blend",
+      "size_in_bytes": 3513888,
+      "hash": "SHA256:091d296fbdd095b331572a8ca2ecaff721ab9629ba194a317be731547fe68265",
+      "blender_version": "5.2.44",
+      "url": "%E8%BF%87%E6%97%B6/simple_particle0528.blend"
     }
   ]
 }
