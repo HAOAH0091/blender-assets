@@ -884,30 +884,30 @@
   "files": [
     {
       "path": "外部节点/4.3 Trail Modifier V3.blend",
-      "size_in_bytes": 1802140,
-      "hash": "SHA256:3dd14cd07359957d0182b6d332f912b7a5998b26b0831f6871386dbd87a6b242",
-      "blender_version": "5.2.44",
+      "size_in_bytes": 201478,
+      "hash": "SHA256:f5cad3520428fbac09c39919df50cabb19a1ce1e69af66e74a5ddcac4e84bf35",
+      "blender_version": "5.2.45",
       "url": "%E5%A4%96%E9%83%A8%E8%8A%82%E7%82%B9/4.3%20Trail%20Modifier%20V3.blend"
     },
     {
       "path": "外部节点/4.4 Particle Simulation Modifier V5.blend",
-      "size_in_bytes": 10061688,
-      "hash": "SHA256:e1fb01f6d78f59bbe0c6b3e395a67b840ffe2509952c505f949835382fc51452",
-      "blender_version": "5.2.44",
+      "size_in_bytes": 1535069,
+      "hash": "SHA256:ae172789785c5969469a5a1b9c6fa78aab3edec68f5e2158f6d63fd8e6626527",
+      "blender_version": "5.2.45",
       "url": "%E5%A4%96%E9%83%A8%E8%8A%82%E7%82%B9/4.4%20Particle%20Simulation%20Modifier%20V5.blend"
     },
     {
       "path": "外部节点/fit-curve.blend",
-      "size_in_bytes": 1722105,
-      "hash": "SHA256:b672d26e0ad8fccbe1f1c7b442f726d56e38204fef31901eb275721664aa3ecd",
-      "blender_version": "5.2.44",
+      "size_in_bytes": 243517,
+      "hash": "SHA256:eac65713d0fce2a66d1260a09dc3f66990ca589763fd060b89678e662f970a0d",
+      "blender_version": "5.2.45",
       "url": "%E5%A4%96%E9%83%A8%E8%8A%82%E7%82%B9/fit-curve.blend"
     },
     {
       "path": "待优化/Procedural Fish Animation (3.0).blend",
-      "size_in_bytes": 1996018,
-      "hash": "SHA256:51bb7968f97e206de6e82444152fa6515a3ca260d85a38aa0428bff86e6c0cc6",
-      "blender_version": "5.2.44",
+      "size_in_bytes": 265818,
+      "hash": "SHA256:57cb32aa79205e7454d2719eb3ef7571e6805ff870133987d3a4382ecf7a1fc9",
+      "blender_version": "5.2.45",
       "url": "%E5%BE%85%E4%BC%98%E5%8C%96/Procedural%20Fish%20Animation%20%283.0%29.blend"
     },
     {
@@ -926,30 +926,30 @@
     },
     {
       "path": "自研节点/depth_fade.blend",
-      "size_in_bytes": 163620,
-      "hash": "SHA256:f8cdd9639f9e86f3ff2febc88c0f8be1c7eed5a42373bda41fbbdf7ceaf8cba1",
-      "blender_version": "5.2.44",
+      "size_in_bytes": 163602,
+      "hash": "SHA256:30f4e6884cfd8d5dccb87a2525bd62219a6b9ccd05d47d1162f9b6916f752beb",
+      "blender_version": "5.2.45",
       "url": "%E8%87%AA%E7%A0%94%E8%8A%82%E7%82%B9/depth_fade.blend"
     },
     {
       "path": "自研节点/line_scatter.blend",
-      "size_in_bytes": 186121,
-      "hash": "SHA256:312dc2511c43b3ba87f908a4e80e01947f0f841c3885e2343d40bd9fce8ce567",
-      "blender_version": "5.2.44",
+      "size_in_bytes": 185715,
+      "hash": "SHA256:239d9f338932926fbf68d64de30b83287794a558e6c886ebe4836c43dc611fe7",
+      "blender_version": "5.2.45",
       "url": "%E8%87%AA%E7%A0%94%E8%8A%82%E7%82%B9/line_scatter.blend"
     },
     {
       "path": "自研节点/shape_cloud.blend",
-      "size_in_bytes": 168847,
-      "hash": "SHA256:8b345ac2cb5f58ad70d10051707347374c80931fa0613ddb64c037876ef93bf3",
-      "blender_version": "5.2.44",
+      "size_in_bytes": 168591,
+      "hash": "SHA256:231e6a1af78b6de3c5a9d3d9e6ae66ab7c9c6f78272470d80985aa6c18ce181e",
+      "blender_version": "5.2.45",
       "url": "%E8%87%AA%E7%A0%94%E8%8A%82%E7%82%B9/shape_cloud.blend"
     },
     {
       "path": "自研节点/trailsFX_V5.0.blend",
-      "size_in_bytes": 66421525,
-      "hash": "SHA256:ecc882f59648964f94e4255945a5c55a4d28a65a55f3be75d99a65786136fbff",
-      "blender_version": "5.2.44",
+      "size_in_bytes": 32328441,
+      "hash": "SHA256:59d263591bde5be0dce92653a4b098cb6224a097c5544d5ddee764fc3e2122c1",
+      "blender_version": "5.2.45",
       "url": "%E8%87%AA%E7%A0%94%E8%8A%82%E7%82%B9/trailsFX_V5.0.blend"
     },
     {
@@ -961,16 +961,16 @@
     },
     {
       "path": "自研节点/简易散布_V3.blend",
-      "size_in_bytes": 3122388,
-      "hash": "SHA256:2876dcee3616b4d74c4c30900e2213ae741fac18875542ee87be561c61be534c",
-      "blender_version": "5.2.44",
+      "size_in_bytes": 603507,
+      "hash": "SHA256:75a86adbeab9732dcd7cefc4839a09e3f597396b35219d1ae4532805f24ffff4",
+      "blender_version": "5.2.45",
       "url": "%E8%87%AA%E7%A0%94%E8%8A%82%E7%82%B9/%E7%AE%80%E6%98%93%E6%95%A3%E5%B8%83_V3.blend"
     },
     {
       "path": "自研节点/简易粒子_V2.blend",
-      "size_in_bytes": 354670,
-      "hash": "SHA256:f89178ab045ecdcc0d9c3137172141ab470e01a4722b136f7bc2207b014aba1c",
-      "blender_version": "5.2.44",
+      "size_in_bytes": 354656,
+      "hash": "SHA256:97691210905782ee06b53fbacae7963d110e7cb876cf14907b5980e3efcad780",
+      "blender_version": "5.2.45",
       "url": "%E8%87%AA%E7%A0%94%E8%8A%82%E7%82%B9/%E7%AE%80%E6%98%93%E7%B2%92%E5%AD%90_V2.blend"
     },
     {
@@ -982,9 +982,9 @@
     },
     {
       "path": "过时/simple_particle0528.blend",
-      "size_in_bytes": 3513888,
-      "hash": "SHA256:091d296fbdd095b331572a8ca2ecaff721ab9629ba194a317be731547fe68265",
-      "blender_version": "5.2.44",
+      "size_in_bytes": 300415,
+      "hash": "SHA256:b48abeb4a2b99c8c792432e5a58c67e2b8db31f60e233a9b5f10004dfc777e4f",
+      "blender_version": "5.2.45",
       "url": "%E8%BF%87%E6%97%B6/simple_particle0528.blend"
     }
   ]

@@ -2,7 +2,7 @@
   "api_versions": {
     "v1": {
       "url": "_v1/asset-index.json",
-      "hash": "SHA256:f676e11637ecdb91df6d664853bacb90ba9d814a832e015a8103ea683056d519"
+      "hash": "SHA256:2bdbb3c50777f336fcc3c5d4757e3fc476b848c934bdd2fa823dc14202e0b444"
     }
   },
   "name": "好柒实用工具资产库",
