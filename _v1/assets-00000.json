@@ -1659,7 +1659,8 @@
                           0.0,
                           0.0
                         ],
-                        "itemtype": "IDP_FLOAT"
+                        "itemtype": "IDP_FLOAT",
+                        "subtype": "IDP_FLOAT"
                       }
                     ]
                   },
@@ -1813,7 +1814,8 @@
                           0.0,
                           0.0
                         ],
-                        "itemtype": "IDP_FLOAT"
+                        "itemtype": "IDP_FLOAT",
+                        "subtype": "IDP_FLOAT"
                       }
                     ]
                   },
@@ -2163,7 +2165,8 @@
                           0.0,
                           0.0
                         ],
-                        "itemtype": "IDP_FLOAT"
+                        "itemtype": "IDP_FLOAT",
+                        "subtype": "IDP_FLOAT"
                       }
                     ]
                   },
@@ -2384,7 +2387,8 @@
                           0.0,
                           -9.8100004196167
                         ],
-                        "itemtype": "IDP_FLOAT"
+                        "itemtype": "IDP_FLOAT",
+                        "subtype": "IDP_FLOAT"
                       }
                     ]
                   },
@@ -2430,7 +2434,8 @@
                           0.0,
                           0.0
                         ],
-                        "itemtype": "IDP_FLOAT"
+                        "itemtype": "IDP_FLOAT",
+                        "subtype": "IDP_FLOAT"
                       }
                     ]
                   },
@@ -2806,7 +2811,8 @@
                           0.0,
                           1.0
                         ],
-                        "itemtype": "IDP_FLOAT"
+                        "itemtype": "IDP_FLOAT",
+                        "subtype": "IDP_FLOAT"
                       }
                     ]
                   },
@@ -3586,7 +3592,8 @@
                           0.0,
                           0.0
                         ],
-                        "itemtype": "IDP_FLOAT"
+                        "itemtype": "IDP_FLOAT",
+                        "subtype": "IDP_FLOAT"
                       }
                     ]
                   },
@@ -3710,7 +3717,8 @@
                           1.0,
                           1.0
                         ],
-                        "itemtype": "IDP_FLOAT"
+                        "itemtype": "IDP_FLOAT",
+                        "subtype": "IDP_FLOAT"
                       }
                     ]
                   },
@@ -4371,7 +4379,8 @@
                           0.0,
                           0.0
                         ],
-                        "itemtype": "IDP_FLOAT"
+                        "itemtype": "IDP_FLOAT",
+                        "subtype": "IDP_FLOAT"
                       }
                     ]
                   },
@@ -4675,7 +4684,8 @@
               1.9999998807907104,
               0.0
             ],
-            "itemtype": "IDP_FLOAT"
+            "itemtype": "IDP_FLOAT",
+            "subtype": "IDP_FLOAT"
           }
         ]
       }
@@ -4704,7 +4714,8 @@
               2.0,
               0.0
             ],
-            "itemtype": "IDP_FLOAT"
+            "itemtype": "IDP_FLOAT",
+            "subtype": "IDP_FLOAT"
           }
         ]
       }
@@ -4733,7 +4744,8 @@
               2.0,
               0.0
             ],
-            "itemtype": "IDP_FLOAT"
+            "itemtype": "IDP_FLOAT",
+            "subtype": "IDP_FLOAT"
           }
         ]
       }
@@ -4762,7 +4774,8 @@
               2.225120782852173,
               0.0
             ],
-            "itemtype": "IDP_FLOAT"
+            "itemtype": "IDP_FLOAT",
+            "subtype": "IDP_FLOAT"
           }
         ]
       }
@@ -5174,7 +5187,8 @@
                           0.0,
                           0.0
                         ],
-                        "itemtype": "IDP_FLOAT"
+                        "itemtype": "IDP_FLOAT",
+                        "subtype": "IDP_FLOAT"
                       }
                     ]
                   },
@@ -5442,7 +5456,8 @@
               0.31666457653045654,
               0.8599808812141418
             ],
-            "itemtype": "IDP_FLOAT"
+            "itemtype": "IDP_FLOAT",
+            "subtype": "IDP_FLOAT"
           }
         ]
       }
@@ -6748,7 +6763,8 @@
                           0.0,
                           0.0
                         ],
-                        "itemtype": "IDP_FLOAT"
+                        "itemtype": "IDP_FLOAT",
+                        "subtype": "IDP_FLOAT"
                       }
                     ]
                   },
@@ -6922,7 +6938,8 @@
                           1.0,
                           1.0
                         ],
-                        "itemtype": "IDP_FLOAT"
+                        "itemtype": "IDP_FLOAT",
+                        "subtype": "IDP_FLOAT"
                       }
                     ]
                   },
@@ -6968,7 +6985,8 @@
                           0.0,
                           0.0
                         ],
-                        "itemtype": "IDP_FLOAT"
+                        "itemtype": "IDP_FLOAT",
+                        "subtype": "IDP_FLOAT"
                       }
                     ]
                   },
@@ -7014,7 +7032,8 @@
                           1.0,
                           1.0
                         ],
-                        "itemtype": "IDP_FLOAT"
+                        "itemtype": "IDP_FLOAT",
+                        "subtype": "IDP_FLOAT"
                       }
                     ]
                   },
@@ -7372,7 +7391,8 @@
               5.967109203338623,
               6.897759437561035
             ],
-            "itemtype": "IDP_FLOAT"
+            "itemtype": "IDP_FLOAT",
+            "subtype": "IDP_FLOAT"
           }
         ]
       }
@@ -9394,7 +9414,8 @@
               4.903900146484375,
               2.627218246459961
             ],
-            "itemtype": "IDP_FLOAT"
+            "itemtype": "IDP_FLOAT",
+            "subtype": "IDP_FLOAT"
           }
         ]
       }
@@ -9893,7 +9914,8 @@
                           1.0,
                           0.0
                         ],
-                        "itemtype": "IDP_FLOAT"
+                        "itemtype": "IDP_FLOAT",
+                        "subtype": "IDP_FLOAT"
                       }
                     ]
                   },
@@ -10390,7 +10412,8 @@
                           0.0,
                           0.0
                         ],
-                        "itemtype": "IDP_FLOAT"
+                        "itemtype": "IDP_FLOAT",
+                        "subtype": "IDP_FLOAT"
                       }
                     ]
                   },
@@ -10525,7 +10548,8 @@
               2.0,
               0.0
             ],
-            "itemtype": "IDP_FLOAT"
+            "itemtype": "IDP_FLOAT",
+            "subtype": "IDP_FLOAT"
           }
         ]
       }
@@ -11565,7 +11589,8 @@
                           0.0,
                           0.0
                         ],
-                        "itemtype": "IDP_FLOAT"
+                        "itemtype": "IDP_FLOAT",
+                        "subtype": "IDP_FLOAT"
                       }
                     ]
                   },
@@ -13724,7 +13749,8 @@
                           0.0,
                           0.0
                         ],
-                        "itemtype": "IDP_FLOAT"
+                        "itemtype": "IDP_FLOAT",
+                        "subtype": "IDP_FLOAT"
                       }
                     ]
                   },
@@ -13893,7 +13919,8 @@
                           100.0,
                           100.0
                         ],
-                        "itemtype": "IDP_FLOAT"
+                        "itemtype": "IDP_FLOAT",
+                        "subtype": "IDP_FLOAT"
                       }
                     ]
                   },
@@ -14021,7 +14048,8 @@
                           1.0,
                           1.0
                         ],
-                        "itemtype": "IDP_FLOAT"
+                        "itemtype": "IDP_FLOAT",
+                        "subtype": "IDP_FLOAT"
                       }
                     ]
                   },
@@ -14230,7 +14258,8 @@
                           0.0,
                           0.0
                         ],
-                        "itemtype": "IDP_FLOAT"
+                        "itemtype": "IDP_FLOAT",
+                        "subtype": "IDP_FLOAT"
                       }
                     ]
                   },
@@ -14317,7 +14346,8 @@
                           100.0,
                           100.0
                         ],
-                        "itemtype": "IDP_FLOAT"
+                        "itemtype": "IDP_FLOAT",
+                        "subtype": "IDP_FLOAT"
                       }
                     ]
                   },
@@ -14671,7 +14701,8 @@
                           0.0,
                           0.0
                         ],
-                        "itemtype": "IDP_FLOAT"
+                        "itemtype": "IDP_FLOAT",
+                        "subtype": "IDP_FLOAT"
                       }
                     ]
                   },
@@ -16066,7 +16097,8 @@
                           -1.0,
                           -1.0
                         ],
-                        "itemtype": "IDP_FLOAT"
+                        "itemtype": "IDP_FLOAT",
+                        "subtype": "IDP_FLOAT"
                       }
                     ]
                   },
@@ -16112,7 +16144,8 @@
                           1.0,
                           1.0
                         ],
-                        "itemtype": "IDP_FLOAT"
+                        "itemtype": "IDP_FLOAT",
+                        "subtype": "IDP_FLOAT"
                       }
                     ]
                   },
@@ -16158,7 +16191,8 @@
                           -180.0,
                           -180.0
                         ],
-                        "itemtype": "IDP_FLOAT"
+                        "itemtype": "IDP_FLOAT",
+                        "subtype": "IDP_FLOAT"
                       }
                     ]
                   },
@@ -16204,7 +16238,8 @@
                           180.0,
                           180.0
                         ],
-                        "itemtype": "IDP_FLOAT"
+                        "itemtype": "IDP_FLOAT",
+                        "subtype": "IDP_FLOAT"
                       }
                     ]
                   },
@@ -19211,7 +19246,8 @@
                           0.0,
                           0.0
                         ],
-                        "itemtype": "IDP_FLOAT"
+                        "itemtype": "IDP_FLOAT",
+                        "subtype": "IDP_FLOAT"
                       }
                     ]
                   },
@@ -19462,7 +19498,8 @@
                           0.0,
                           0.0
                         ],
-                        "itemtype": "IDP_FLOAT"
+                        "itemtype": "IDP_FLOAT",
+                        "subtype": "IDP_FLOAT"
                       }
                     ]
                   },
@@ -20181,7 +20218,8 @@
               2.0,
               0.0
             ],
-            "itemtype": "IDP_FLOAT"
+            "itemtype": "IDP_FLOAT",
+            "subtype": "IDP_FLOAT"
           }
         ]
       }
